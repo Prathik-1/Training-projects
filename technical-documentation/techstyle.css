@@ -1,0 +1,62 @@
+/* body{background-image: url(https://th.bing.com/th/id/OIP.BCfkJnCx14lcgWtDhLgDZAHaEo?w=290&h=181&c=7&r=0&o=5&pid=1.7);
+    color: rgb(0, 0, 0);
+    background-size: 100% ;} */
+body{
+    background-color:aliceblue;
+}
+
+a{color:rgb(0, 0, 0);
+    font-size:20px ;
+    text-decoration:none;
+    display: block;}
+
+h1{font-weight: bolder;
+    font-size: 30px;color:rgb(0, 0, 0);
+text-align:center;}
+
+h2{color:rgb(3, 3, 3);}    
+
+p,li,section{font-size: 20px;}
+
+nav{position:fixed;
+border-right:2px solid black;}
+
+#main-doc{position:absolute;
+        margin-left:300px;
+        margin-top: 0px;}
+
+
+nav,main{display: inline-block;}
+
+#code{background-color: bisque;;width:70%;
+border-radius:3px;
+font-size:18px;
+padding:3px}
+
+.nav-link{
+    border-top:1px solid black;
+    padding: 10px;
+    
+}
+
+a:hover{
+    background-color:aqua;
+}
+#navbar{
+    position: fixed;
+ min-width: 290px;
+    top: 0px;
+    left: 0px;
+    width: 300px;
+    height: 100%;
+    border-right: solid;
+    display:block;
+opacity:80%;
+border-color: rgba(0, 22, 22, 0.4);  
+}
+
+#Reference li a{
+    background-color: aliceblue;
+    text-decoration: underline;
+    color:blue;
+}

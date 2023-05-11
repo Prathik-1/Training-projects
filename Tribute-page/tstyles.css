@@ -1,0 +1,46 @@
+img{display:block;max-width:100%;
+    margin:0 auto;}
+    
+    h1,p{
+      text-align:center;
+    }
+    p{
+      font-size:18px
+    }
+    
+    body{
+      background-color: #eee;;
+    }
+    
+    #img-div{
+      background-color:white;
+       /* display:flex;
+      /* justify-content:center; */
+      padding:20px ;
+      margin:0;
+    }
+    
+    #img-caption{
+      text-align:center;
+      font-size:18px
+      
+    }
+    
+    .content {
+      padding-left:30px;
+      padding-top:30px;
+      font-size:20px;
+    }
+    .bold{
+      font-weight:bold;
+    }
+    
+    ul li{
+      padding-top:10px;
+      padding-bottom:10px;
+    }
+    .quote{
+        padding-top:30px;
+      padding-bottom:30px;
+      font-style:italic;
+    }
